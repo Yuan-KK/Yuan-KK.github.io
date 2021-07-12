@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 deploy:
   type: git
   repository: https://github.com/Yuan-KK/Yuan-KK.github.io
